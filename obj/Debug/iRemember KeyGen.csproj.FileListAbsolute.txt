@@ -1,0 +1,9 @@
+C:\Users\chris\source\repos\iRemember KeyGen\bin\Debug\iRemember KeyGen.exe
+C:\Users\chris\source\repos\iRemember KeyGen\bin\Debug\iRemember KeyGen.pdb
+C:\Users\chris\source\repos\iRemember KeyGen\obj\Debug\iRemember KeyGen.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\iRemember KeyGen\obj\Debug\iRemember_KeyGen.Form1.resources
+C:\Users\chris\source\repos\iRemember KeyGen\obj\Debug\iRemember_KeyGen.Properties.Resources.resources
+C:\Users\chris\source\repos\iRemember KeyGen\obj\Debug\iRemember KeyGen.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\iRemember KeyGen\obj\Debug\iRemember KeyGen.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\iRemember KeyGen\obj\Debug\iRemember KeyGen.exe
+C:\Users\chris\source\repos\iRemember KeyGen\obj\Debug\iRemember KeyGen.pdb
